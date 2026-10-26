@@ -1,0 +1,12 @@
+TIP CALCULATOR - FLUTTER LAB PROJECT
+
+Project Type: Flutter Mobile Application
+Topic: Tip Calculator
+Language: Dart
+Framework: Flutter
+
+Main functions:
+1. Bill amount input
+2. Tip percentage selection
+3. Number of people selection
+4. Tip, total and per-person calculation
